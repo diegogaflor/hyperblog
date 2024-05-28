@@ -1,0 +1,3 @@
+Esta es la historia de Diego
+Tiene 22 añitos y esta apreniendo programacion basica
+En estos momentos esta enaprender el sistema de control de versiones mas conocidos que es Git y la plataforma de desarrolladores mas conocido, GitHub
