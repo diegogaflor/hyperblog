@@ -3,3 +3,5 @@ Esta es la historia de Diego
 Tiene 22 años y esta apreniendo programacion basica en Platzi
 
 En estos momentos esta enaprender el sistema de control de versiones mas conocidos que es Git y la plataforma de desarrolladores mas conocido.
+
+Mide como 1.70 metros de altura.
