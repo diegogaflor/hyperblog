@@ -3,10 +3,14 @@ body
     text-align: center;
     font-family: Arial;
 <<<<<<< HEAD
+<<<<<<< HEAD
     color:blue;
 =======
     color: red;
 >>>>>>> 3e56067 (Modifique la cabecera y el color del texto)
+=======
+    color: #333;
+>>>>>>> 1550e08 (Cambie el color del cuerpo)
     font-size: 16px;
     margin: 0;
     padding: 0;
